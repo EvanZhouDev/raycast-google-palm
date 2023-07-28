@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "google-palm",
+  "name": "raycast-google-palm",
   "title": "Google PaLM",
   "description": "Use the Google PaLM 2 API in Raycast.",
   "icon": "command-icon.png",
